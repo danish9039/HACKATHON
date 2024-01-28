@@ -19,7 +19,7 @@ const Footer = () => {
                     <p>Shadow</p>
                   </a>
                   <span className="block text-lg  max-w-xs mt-6">
-                  Contribute to a safer online environment by reporting and sharing instances of deceptive designs
+                  busting dark patterns in web
                   </span>
                 </div>
               </div>
@@ -27,7 +27,7 @@ const Footer = () => {
                 <div className="flex flex-wrap -mx-4 -mb-8">
                   <div className="w-1/2 xs:w-1/3 px-4 mb-8">
                     <h5 className="text-xl font-semibold  mb-6">
-                      Product
+                      features 
                     </h5>
                     <ul>
                       <li className="mb-6">
@@ -35,7 +35,7 @@ const Footer = () => {
                           className="inline-block text-lg  hover:"
                           href=""
                         >
-                          Agencies
+                          ad blocker
                         </a>
                       </li>
                       <li className="mb-6">
@@ -43,7 +43,7 @@ const Footer = () => {
                           className="inline-block text-lg  hover:"
                           href="#services"
                         >
-                          Services
+                          crowd sourcing 
                         </a>
                       </li>
                       <li className="mb-6">
@@ -51,7 +51,7 @@ const Footer = () => {
                           className="inline-block text-lg  hover:"
                           href="#"
                         >
-                          Pricing
+                          terms and condition analysis
                         </a>
                       </li>
                     </ul>
@@ -75,7 +75,7 @@ const Footer = () => {
                           className="inline-block mr-2 text-lg  hover:"
                           href=""
                         >
-                          <span>Careers</span>
+                          <span>blogs</span>
                         </a>
                         <span className="inline-flex h-6 px-2 items-center  bg-teal-600 rounded-full">
                           <svg
@@ -97,7 +97,7 @@ const Footer = () => {
                           className="inline-block text-lg  hover:"
                           href=""
                         >
-                          Contact Sales
+                          F&Q
                         </a>
                       </li>
                     </ul>
@@ -142,7 +142,7 @@ const Footer = () => {
         <div className="container px-4 mx-auto">
           <div className="md:flex items-center justify-between">
             <p className=" mb-10 md:mb-0">
-              Made with love ❤️ © 2023 Tokyo. All rights reserved.
+              
             </p>
             <div className="flex items-center">
               <a

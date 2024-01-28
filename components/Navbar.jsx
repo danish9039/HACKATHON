@@ -82,7 +82,7 @@ const Navbar = () => {
               </div>
               <div className="hidden lg:block ml-12">
                 <Link
-                  className="inline-flex items-center justify-center h-10 mr-4 px-4 text-center text-sm  font-semibold border border-gray-800 hover:bg-gray-900 rounded-lg"
+                  className="inline-flex items-center justify-center h-10 mr-4 px-4 text-center text-sm  font-semibold border border-gray-800 rounded-lg hover:bg-purple-700 transition duration-400 "
                   href="/login"
                 >
                   Login
@@ -91,23 +91,16 @@ const Navbar = () => {
                   className="group inline-block justify-center p-1 text-center text-sm  font-semibold rounded-lg"
                   href="#"
                 >
-                  {/* <div className="inline-flex items-stretch h-10 p-0.5 rounded-lg bg-gradient-to-b from-gray-500 via-gray-700 to-gray-700 hover:to-gray-800">
-                    <div className="flex items-center px-4 bg-gray-700 group-hover:bg-opacity-40 rounded-md transition duration-300">
-                      <span>Get Started</span>
-                    </div>
-                  </div> */}
                 </a>
               </div>
             </div>
           </div>
         </nav>
       </section>
-        {/* Phone Nav */}
         {
           navON ? <PhoneNav setNav={setNav}   />
             : null
         }
-        {/* Phone Nav */}
     </>
   );
 };

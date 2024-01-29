@@ -15,7 +15,8 @@ const sucess = () => {
                 Confiramtion
               </span>
               <h1 class="text-3xl mt-6 tracking-tighter font-light lg:text-6xl text-white">
-                <span class="block text-zinc-400">Report Sucess ✔️YOUR REPORT HAS BEEN SUBMITTED TO GOVERNMENT OF INDIA </span>
+                <span class="block text-zinc-400">Report Success ✔️
+                YOUR REPORT HAS BEEN SUBMITTED TO GOVERNMENT OF INDIA </span>
               </h1>
               <p class="text-white mt-6 md:w-1/2 mx-auto"></p>
             </div>

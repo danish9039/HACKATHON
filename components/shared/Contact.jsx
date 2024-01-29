@@ -20,10 +20,9 @@ const Contact = () => {
                   <Image className="block rounded-xl mb-8 w-12" src={portrait} alt="" />
 
                   <p className="font-medium text-white mb-4">
-                    &quot;Their research, quality of copy and ability to turn
-                    around complex projects quickly is second to none.&quot;
+                    &quot;We provide the best privacy and security to your devices.&quot;
                   </p>
-                  <span className="">Scott Clary, Founder</span>
+                  <span className="">HACKCRAFT, Company</span>
                 </div>
               </div>
             </div>
@@ -75,18 +74,7 @@ const Contact = () => {
                       required=""
                     />
                   </div>
-                  {/* <div className="mb-8 col-span-2">
-                    <label
-                      className="block mb-2 text-sm font-medium text-white"
-                      for=""
-                    >
-                      Message
-                    </label>
-                    <textarea
-                      className="block py-2 px-4 w-full h-44  bg-gray-800 border border-gray-700 focus:border-primary rounded-lg outline-none ring ring-transparent focus:ring-primary resize-none"
-                      placeholder="Enter your message"
-                    ></textarea>
-                  </div> */}
+                  
                   <Link    href="/features">
                   <button
                     className="group relative w-32 px-4 py-3  p-px font-bold bg-primary
